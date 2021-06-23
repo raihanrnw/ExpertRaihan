@@ -21,7 +21,7 @@
         android:layout_height="0dp"
         android:layout_marginStart="60dp"
         android:foreground="?android:attr/selectableItemBackground"
-        app:cardBackgroundColor="@color/white"
+        app:cardBackgroundColor="#FFFFF"
         app:cardCornerRadius="14dp"
         app:cardElevation="-1dp"
         android:id="@+id/item_card"
