@@ -14,6 +14,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.012"
         app:layout_constraintStart_toStartOf="parent"
+        android:contentDescription="@string/imageclub"
         />
 
     <androidx.cardview.widget.CardView
