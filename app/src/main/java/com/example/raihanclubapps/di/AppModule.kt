@@ -1,4 +1,4 @@
-package com.yusuf.submissionexpert.di
+package com.example.raihanclubapps.di
 
 import com.example.raihanclubapps.core.domain.FootballInteractor
 import com.example.raihanclubapps.core.domain.FootballUseCase
